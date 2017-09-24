@@ -31,7 +31,7 @@ var prevSeconds;
 var hueR;   
 var step = 30;
 var prev = [];              
-const spacing = 72;
+const spacing = 2;
 
 function setup() {
     createCanvas(windowWidth, windowHeight);
